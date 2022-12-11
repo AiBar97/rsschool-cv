@@ -5,4 +5,4 @@ learning git and markdown at rs school
 https://www.codewars.com/kata/50654ddff44f800200000004/javascript
 I worked as an ecologist for one year
 bachelor ecologist
-А2 (Elementary)
+А2 - Elementary
